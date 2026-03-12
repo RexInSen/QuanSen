@@ -180,3 +180,12 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 installer_output/
+*.zip
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+dist/
+build/
+.env
