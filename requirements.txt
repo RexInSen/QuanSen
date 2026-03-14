@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+cvxpy
+scipy
+matplotlib
+seaborn
+plotly
+yfinance
+requests
+pillow
+pyinstaller
+scikit-learn
+pywebview
