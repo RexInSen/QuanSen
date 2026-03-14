@@ -23,6 +23,10 @@ This is the new and improved Version with major fixes:
 
 
 
+Primary Server: https://quansen.streamlit.app
+
+Backup Server: https://quansen.onrender.com
+
 
 
 
@@ -34,6 +38,4 @@ Install this and Go crazy... It has the level of sophistication of a mid-level h
 
 
 Happy Playing...✌️🙂
-
-
 
