@@ -12,3 +12,4 @@ pillow
 pyinstaller
 scikit-learn
 pywebview
+reportlab
