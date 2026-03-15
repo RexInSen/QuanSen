@@ -2268,7 +2268,11 @@ def generate_pdf(ss) -> bytes:
     story += section("1. Asset Summary")
     ar = ss.asset_returns
     ak = ss.asset_risks
-    er = ss.expected_returns
+    # Resolve active expected returns (same as optimizer)
+    if ss.get("momentum_enabled") and ss.get("momentum_final_er") is not None:
+        er = ss.momentum_final_er.reindex(ss.tickers)
+    else:
+        er = ss.expected_returns
     tickers = ss.tickers
     asset_df = pd.DataFrame({
         "Ticker":        tickers,
