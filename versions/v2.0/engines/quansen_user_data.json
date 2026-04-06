@@ -25,6 +25,83 @@
       "momentum_beta": 0.7501977546780165,
       "momentum_lookback": 252,
       "updated_at": "2026-03-18 21:30"
+    },
+    "Best testing": {
+      "tickers": [
+        "BEL.NS",
+        "HAL.NS",
+        "BDL.NS",
+        "GRSE.NS",
+        "ZENTEC.NS",
+        "ASTRAMICRO.NS",
+        "APOLLO.NS",
+        "MIDHANI.NS",
+        "AXISCADES.NS",
+        "COCHINSHIP.NS",
+        "SWANDEF.BO",
+        "RELIANCE.NS",
+        "KINGFA.NS",
+        "CIEINDIA.NS",
+        "ADANIENT.NS",
+        "SHUKRAPHAR.BO",
+        "HDFCBANK.NS",
+        "CONCOR.NS",
+        "PIIND.NS",
+        "PIDILITIND.NS"
+      ],
+      "start_date": "2021-01-01",
+      "end_date": "2025-12-31",
+      "min_w": 0.01,
+      "max_w": 0.2,
+      "target_return": 0.15,
+      "shrinkage_alpha": 0.7797215385753069,
+      "momentum_enabled": false,
+      "momentum_beta": 0.7501977546780165,
+      "momentum_lookback": 252,
+      "updated_at": "2026-03-20 16:38"
+    },
+    "My Portfolio": {
+      "tickers": [
+        "AVANCE.BO",
+        "BEL.NS",
+        "CIEINDIA.NS",
+        "PHARMABEES.NS",
+        "POWERGRID.NS",
+        "TATASTEEL.NS",
+        "TATSILV.NS",
+        "VEDL.NS"
+      ],
+      "start_date": "2021-01-01",
+      "end_date": "2025-12-31",
+      "min_w": 0.01,
+      "max_w": 0.3,
+      "target_return": 0.15,
+      "shrinkage_alpha": 0.7797215385753069,
+      "momentum_enabled": false,
+      "momentum_beta": 0.6,
+      "momentum_lookback": 252,
+      "updated_at": "2026-03-20 23:34"
+    },
+    "My_New_Portfolio": {
+      "tickers": [
+        "BEL.NS",
+        "CIEINDIA.NS",
+        "MONQ50.NS",
+        "PHARMABEES.NS",
+        "POWERGRID.NS",
+        "TATASTEEL.NS",
+        "VEDL.NS"
+      ],
+      "start_date": "2022-01-01",
+      "end_date": "2026-01-01",
+      "min_w": 0.01,
+      "max_w": 0.3,
+      "target_return": 0.25,
+      "shrinkage_alpha": 0.8218,
+      "momentum_enabled": true,
+      "momentum_beta": 0.3622,
+      "momentum_lookback": 252,
+      "updated_at": "2026-04-04 10:50"
     }
   },
   "watchlists": {

@@ -202,7 +202,7 @@ class SplashScreen:
             gui_path = os.path.join(
                 base_dir,
                 "versions",
-                "v1.2",
+                "v2.0",
                 "main.py",
             )
 
